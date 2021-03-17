@@ -1,0 +1,18 @@
+.category__hover__lists {
+  width: 500px;
+  height: 500px;
+  background-color: white;
+  position: absolute;
+  top: 0%;
+  left: 21.5%;
+  z-index: 9999;
+}
+.category__hover__lists:hover {
+  width: 500px;
+  height: 500px;
+  background-color: white;
+  position: absolute;
+  top: 0%;
+  left: 21.5%;
+  z-index: 9999;
+}
